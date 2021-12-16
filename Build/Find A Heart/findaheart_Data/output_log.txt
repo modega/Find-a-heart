@@ -1,0 +1,52 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 30.0.14.9709]
+    Renderer: NVIDIA GeForce GTX 980
+    Vendor:   NVIDIA
+    VRAM:     4053 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.348 seconds
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects\Find a heart\Build\Find A Heart\findaheart_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.568700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Setting to default shader.
+UnloadTime: 3.709700 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.182200 ms (FindLiveObjects: 0.020200 ms CreateObjectMapping: 0.007000 ms MarkObjects: 0.145900 ms  DeleteObjects: 0.008800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.700200 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 477.
+Total: 0.482100 ms (FindLiveObjects: 0.049300 ms CreateObjectMapping: 0.021500 ms MarkObjects: 0.394000 ms  DeleteObjects: 0.016500 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.212900 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.242000 ms (FindLiveObjects: 0.015100 ms CreateObjectMapping: 0.007700 ms MarkObjects: 0.189200 ms  DeleteObjects: 0.029600 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 213c -> priority: 1 
+  Thread -> id: 3e50 -> priority: 1 

@@ -1,0 +1,14 @@
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Kubilay\Documents\Find a heart\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Kubilay\Documents\Find a heart\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Kubilay\Documents\Find a heart\obj\Debug\Assembly-CSharp.dll
+C:\Users\Kubilay\Documents\Find a heart\obj\Debug\Assembly-CSharp.pdb
