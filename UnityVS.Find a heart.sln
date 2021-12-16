@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Find a heart.CSharp.Plugins", "UnityVS.Find a heart.CSharp.Plugins.csproj", "{F950FB37-CD04-A48F-EFEF-50017021AE8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Find a heart.CSharp", "UnityVS.Find a heart.CSharp.csproj", "{6484ADAD-0A45-F228-A347-C7E05DADA21C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F950FB37-CD04-A48F-EFEF-50017021AE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F950FB37-CD04-A48F-EFEF-50017021AE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F950FB37-CD04-A48F-EFEF-50017021AE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F950FB37-CD04-A48F-EFEF-50017021AE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6484ADAD-0A45-F228-A347-C7E05DADA21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6484ADAD-0A45-F228-A347-C7E05DADA21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6484ADAD-0A45-F228-A347-C7E05DADA21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6484ADAD-0A45-F228-A347-C7E05DADA21C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
